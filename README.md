@@ -15,3 +15,19 @@
     src="https://raw.githubusercontent.com/er2de2/catppuccin_walls/refs/heads/master/assets/01.png"
   />
 </p>
+
+
+<p align="center">
+  <img
+    width="1495"
+    src="https://raw.githubusercontent.com/er2de2/catppuccin_walls/refs/heads/master/assets/02.png"
+  />
+</p>
+
+
+<p align="center">
+  <img
+    width="1495"
+    src="https://raw.githubusercontent.com/er2de2/catppuccin_walls/refs/heads/master/assets/03.png"
+  />
+</p>
