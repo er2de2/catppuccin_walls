@@ -20,7 +20,7 @@
 <p align="center">
   <img
     width="1495"
-    src="https://raw.githubusercontent.com/er2de2/catppuccin_walls/refs/heads/master/assets/02.png"
+    src="https://raw.githubusercontent.com/er2de2/catppuccin_walls/refs/heads/master/assets/g7.png"
   />
 </p>
 
