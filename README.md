@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="600"
-    src="https://raw.githubusercontent.com/er2de2/catppuccin_walls/refs/heads/master/assets/catppuccin_wals.png"
+    src="https://raw.githubusercontent.com/er2de2/catppuccin_walls/refs/heads/master/assets/05.png"
   />
 </p>
 
