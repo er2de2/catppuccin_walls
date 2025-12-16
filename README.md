@@ -28,6 +28,6 @@
 <p align="center">
   <img
     width="1495"
-    src="https://raw.githubusercontent.com/er2de2/catppuccin_walls/refs/heads/master/assets/03.png"
+    src="https://raw.githubusercontent.com/er2de2/catppuccin_walls/refs/heads/master/assets/04.png"
   />
 </p>
